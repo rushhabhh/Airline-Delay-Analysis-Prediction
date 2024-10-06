@@ -16,7 +16,6 @@ The project includes the following components:
 
 **1. Data Exploration and Preprocessing**
 - Dataset Overview: Introduction to the structure and key variables of the dataset, which includes over 4 million records and 110 features.
-- Data Cleaning: Handling missing values, converting time formats (from HHMM to 12-hour AM/PM), and filtering out unnecessary columns.
 - Flight Status Classification: Categorization of flights into early, on-time, delayed, canceled, and diverted flights.
 
 **2. Exploratory Data Analysis (EDA)**
@@ -32,4 +31,22 @@ The project includes the following components:
 **4. Visualizations**
 - Delay by Airline: Bar charts showing delay distribution across airlines.
 - Flight Status Breakdown: Pie and bar charts visualizing early, on-time, and delayed flight proportions.
-T- op Delayed Airports: Insights into which airports experience the highest delays.
+- Top Delayed Airports: Insights into which airports experience the highest delays.
+
+### Dataset
+
+The data used in this project is sourced from the U.S. Department of Transportation's Airline On-Time Performance Dataset, covering flight information from January 2024 to July 2024.
+
+Data Features: Includes details like flight dates, departure and arrival times, delays, cancellations, diversion status, and more.
+Size: **4,095,932 records and 110 columns.**
+
+
+## How to Use
+
+To explore the project:
+
+1. Clone or download this repository to your local machine
+2. Create a virtual environment and activate it
+3. Install the required packages
+4. Ensure the dataset is available in the data directory
+5. Open and run the Jupyter notebook
