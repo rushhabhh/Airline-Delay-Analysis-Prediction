@@ -9,6 +9,7 @@ The primary objective of this project is to uncover patterns and causes of fligh
 ## Project Link
 
 Access the full analysis and visualizations in the Jupyter notebooks provided in this repository.
+
 Medium Article: [Analyzing and Predicting Airline Delays: A Comprehensive Data Science Approach](https://medium.com/@rvora3/analyzing-and-predicting-airline-delays-a-comprehensive-data-science-approach-c08d5de14a10)
 
 ## Project Features
